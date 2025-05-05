@@ -30,3 +30,6 @@ malayalam_news_agent = LlmAgent(
 )
 
 root_agent = malayalam_news_agent
+
+
+# adk web (running command)
